@@ -21,6 +21,7 @@
 * $(a^n)^m = a^{n \cdot m}$
 * $a^n \cdot b^n = (a \cdot b)^n$
 * $\frac{a^n}{b^n} = (\frac{a}{b})^n$
+* $a^\frac{1}{n} = \sqrt[n]{a}$
 
 ### Spezialfälle:
 
