@@ -4,7 +4,7 @@ Betreff: Probleme in der Feldstrasse 16
 
 Guten Tag [Name]
 
-Seit Oktober 2020 wohne ich in der Parterrewohnung in der Feldstrasse 16. Obwohl ich sie bereits bei der Übernahme der Wohnung auf einige Dinge hingewiesen habe, sind Sie leider noch nicht darauf eingegangen. Ich bitte Sie hiermit noch einmal schriftlich, sich folgenden Mängeln anzunehmen:
+Seit Oktober 2020 wohne ich in der Parterrewohnung in der Feldstrasse 16. Obwohl ich Sie bereits bei der Übernahme der Wohnung auf einige Dinge hingewiesen habe, sind Sie leider noch nicht darauf eingegangen. Ich bitte Sie hiermit noch einmal schriftlich, sich folgenden Mängeln anzunehmen:
 
 - Beide Wasserhahnen Tropfen
 - Kochplatte defekt
