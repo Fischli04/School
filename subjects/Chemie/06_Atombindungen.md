@@ -72,6 +72,8 @@
 
 > Bedeuted, das es einen Schwerpunkt gibt, und sich alle anderen Atome Symetrisch anordnen.
 
+$\ce{A ->[catalyst] B}$
+
 ```smiles
 OC(=O)c1cc(Cl)cs1
 ```

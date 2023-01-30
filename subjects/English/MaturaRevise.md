@@ -1,0 +1,18 @@
+- Further _investigation_ will be done.
+- _Did you have_ a nice time in Rome last summer?
+- I _have been climbing_ for 2 years now.
+- It _has been five years since_ my parents moved to New Zealand.
+- My colleague has a very _productive_ way of working.
+- Joseph _is better at maths than_ me.
+- I _didn't have enough_ money to buy the car.
+- I _was reading_ the newspaper when Paul _arrived_.
+- The book contains a collection of poems from three decades.
+- He ___is__ the most famous person_ we have ever met.
+- I _am meeting_ Carol this evening at 6pm in front of the library. 
+  - I _met_ Carol this evening at 6pm in front of the library.
+- Mrs Jones _said she was having her_ flat decorated.
+- I _asked ben if he was_ having problems
+- What _would you do_ if you won the lottery?
+- 
+- 
+- 
