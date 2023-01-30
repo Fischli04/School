@@ -8,7 +8,7 @@ Seit Oktober 2020 wohne ich in der Parterrewohnung in der Feldstrasse 16. Obwohl
 
 - Beide Wasserhahnen tropfen
 - Kochplatte defekt
-- Das Gefrierfach des Kühlschrank funktioniert nicht
+- Das Gefrierfach des Kühlschrank funktioniert nicht.
 - Sowohl in der Küche als auch im Wohnzimmer sind die Wände in schlechtem Zustand. So sind im Wohnzimmer beispielsweise die Tapeten beschädigt.
 
 Ich danke Ihnen für eine schnelle Antwort.
