@@ -41,11 +41,11 @@
 
 ## Risiken
 
-| Nr. | Risiko                                 | Wahrscheinlichkeit | Auswirkung                                                     | Massnahme                   |
-| --- | -------------------------------------- | ------------------ | -------------------------------------------------------------- | --------------------------- |
-| 1   | Sensoren Funktionieren nicht           | Niedrig            | Hoch (System funktioniert nicht)                               | PoC => Sensoren früh testen |
-| 2   | Motor Funktioniert nicht wie gewünscht | Mittel             | Hoch (System funktioniert nicht)                               | PoC => Motor früh testen    |
-| 3   | Material nicht stabil genug            | Mittel             | Mittel (System physisch nicht stabil, trotzdem funktionsfähig) | Struktur früh bauen         |
+| Nr. | Risiko                                 | Wahrscheinlichkeit | Auswirkung                                                                                                                       | Massnahme                   |
+| --- | -------------------------------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| 1   | Sensoren Funktionieren nicht           | Niedrig            | Ultraschall, Potentiometer, Knopf - Hoch (System funktioniert nicht) <br>Thermometer - Mittel (Funktion kann weggelassen werden) | PoC => Sensoren früh testen |
+| 2   | Motor Funktioniert nicht wie gewünscht | Mittel             | Hoch (System funktioniert nicht)                                                                                                 | PoC => Motor früh testen    |
+| 3   | Material nicht stabil genug            | Mittel             | Mittel (System physisch nicht stabil, trotzdem funktionsfähig)                                                                   | Struktur früh bauen         |
 
 ## Anforderungen
 
